@@ -1,8 +1,0 @@
-name: Pubkey Encrypt
-description: Adds Credentials-based Public Key Encryption support.
-core: 8.x
-type: module
-package: Encryption
-dependencies:
-  - key
-  - encrypt
